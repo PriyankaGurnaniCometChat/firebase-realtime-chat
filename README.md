@@ -16,7 +16,7 @@ This demo uses:
 
 ## Running the demo
 To run the demo follow these steps:
-* Clone this repo ``https://github.com/EBEREGIT/firebase-realtime-chat``
+* Clone this repo ``git clone https://github.com/EBEREGIT/firebase-realtime-chat``
 * Replace the firebase configuration in the ``index.js`` file with your own configurarion
 * Load the ``index.html`` file in a browser
 * You can now send and recieve messages
